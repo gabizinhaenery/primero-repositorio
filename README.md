@@ -6,3 +6,4 @@ para copiar o código em HTML
   <h1>Meu primeiro arquivo HTML</h1>
 </html>
 '''
+<img src="{BadgeURLHere}" />
